@@ -10,7 +10,7 @@ Trial with prototype12 code for un_base core layers(produce)
 git clone git@github.com:ubukawa/12-produce-un1
 cd 12-produce-un1
 npm install
-vi config/default.hjson
+vi config/default.hjson //edit config info, e.g. host, dbUser, dbPassword, etc.
 ```
 
 ## run
